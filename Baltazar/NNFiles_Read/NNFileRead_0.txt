@@ -1,0 +1,174 @@
+
+======================================================
+Score	0
+Z	-72.3602
+alpha	1.65182
+betta	32.3673
+gamma	14.0213
+Vx	-26.4551
+Vy	8
+Vz	2
+engIng	1
+cFuel	735
+tfuel	0
+======================================================
+
+Initial Parametrs
+rOa	{ 131 ; 118 ; -101 }
+
+V	{ 12 ; 8 ; 2 }
+
+w	{ -0.3 ; 0.4 ; -0.34 }
+
+alpha	-0.258
+betta	-0.059
+gamma	-0.075
+======================================================
+
+ Layer 2
+
+node  1		 link	 weight	 bias 0
+
+node  2		 link	 weight	 bias 0
+
+node  3		 link	 weight	 bias 0
+
+node  4		 link	 weight	 bias 0
+
+node  5		 link	 weight	 bias 0
+
+node  6		 link	 weight	 bias 0
+
+node  7		 link	 weight	 bias 0
+
+node  8		 link	 weight	 bias 0
+
+node  9		 link	 weight	 bias 0
+
+node  10		 link	 weight	 bias 0
+
+
+ Layer 3
+
+node  1		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  2		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  3		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  4		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  5		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  6		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  7		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  8		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  9		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+node  10		 link	 weight	 bias 0
+		15  0	0
+		16  0	0
+		17  0	0
+		18  0	0
+		19  0	0
+		20  0	0
+		21  0	0
+		22  0	0
+		23  0	0
+		24  0	0
+
+
+ Layer 4
